@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML,CSS, Javascript,Advance_Javascript,React,Monogo db,Node.js,NPMo**
+- 💬 Ask me about **HTML,CSS, Javascript,Advance_Javascript,React,Monogo db,Node.js,NPM**
 
 - 📫 How to reach me **anandbabli96@gmail.com**
 
